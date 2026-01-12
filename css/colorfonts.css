@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+
+
+body, .maincolors {
+    background-color: #FBFBFB;
+    color:black;
+}
+
+.subcolorone {
+    background-color: #004196;
+    color:white;
+}
+
+.subcolortwo {
+    background-color: #CDE3FF;
+    color:#0C1639;
+}
+
+h1, h2, h3, h4, h5, h6, .headfont {
+    font-family:"Noto Sans", sans-serif;
+}
+
+p, li, .parafont {
+    font-family: "Quicksand", sans-serif;
+}
