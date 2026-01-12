@@ -16,10 +16,31 @@ body, .maincolors {
     color:#0C1639;
 }
 
-h1, h2, h3, h4, h5, h6, .headfont {
+.container h1, .container h2, .container h3, .container h4, .container h5, .container h6, .headfont {
     font-family:"Noto Sans", sans-serif;
 }
 
-p, li, .parafont {
+.container p, .container li, .parafont {
     font-family: "Quicksand", sans-serif;
+    font-size:1.8rem;
+}
+
+footer p {
+    font-size:1.3rem;
+}
+
+footer a:link, footer a:active {
+    color:#CDE3FF;
+}
+
+footer a:hover, footer a:visited {
+    color:#f1f7ff
+}
+
+hr {
+
+    border: white 2px solid;
+    width:85%;
+    margin:auto 1px;
+
 }
